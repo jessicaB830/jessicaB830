@@ -1,0 +1,739 @@
+.mediaViewInfo {
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Home;
+}
+* {
+	max-width: 1920px;
+	margin: auto;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Home {
+	position: absolute;
+	width: 1920px;
+	height: 5486px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#Ellipse_4 {
+	fill: rgba(212,242,252,1);
+}
+.Ellipse_4 {
+	width: 1233px;
+	height: 1545px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,-14.1859,-386.5) rotate(75deg);
+	transform-origin: center;
+}
+#Jessica_Beier_-_UX_Designer {
+	left: 88px;
+	top: 363px;
+	position: absolute;
+	overflow: visible;
+	width: 809px;
+	height: 123px;
+	text-align: center;
+	font-family: Sans Serif Collection;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(67,59,59,1);
+}
+#Im_a_UX_Designer_starting_out_ {
+	left: 111px;
+	top: 486px;
+	position: absolute;
+	overflow: visible;
+	width: 763px;
+	height: 252px;
+	text-align: center;
+	font-family: Sans Serif Collection;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 696px;
+	height: 1px;
+	left: 144px;
+	top: 474.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 981.645px;
+	height: 1298.657px;
+	transform: matrix(1,0,0,1,1490.8274,-5.6467) rotate(-4deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Path_2 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 981.645px;
+	height: 1298.657px;
+	transform: matrix(1,0,0,1,1551.3035,-9.8756) rotate(-4deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Path_3 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 980.136px;
+	height: 1298.666px;
+	transform: matrix(1,0,0,1,1615.527,-14.3138) rotate(-4deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Ellipse_6 {
+	fill: rgba(212,242,252,1);
+}
+.Ellipse_6 {
+	width: 1408px;
+	height: 1592px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,49.3721,2266.257) rotate(20deg);
+	transform-origin: center;
+}
+#Ellipse_5 {
+	fill: rgba(212,242,252,1);
+}
+.Ellipse_5 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	width: 1822px;
+	height: 1071px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,-308.6859,1287.3141) rotate(-10deg);
+	transform-origin: center;
+}
+#Ellipse_7 {
+	fill: rgba(212,242,252,1);
+}
+.Ellipse_7 {
+	width: 1505.782px;
+	height: 1785.293px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,18.978,3777.264) rotate(-71deg);
+	transform-origin: center;
+}
+#Path_11 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_11 {
+	overflow: visible;
+	position: absolute;
+	width: 521.782px;
+	height: 2317.071px;
+	transform: matrix(1,0,0,1,721.4629,1198.7479) rotate(72deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Path_12 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_12 {
+	overflow: visible;
+	position: absolute;
+	width: 521.477px;
+	height: 2376.639px;
+	transform: matrix(1,0,0,1,727.1183,1131.0645) rotate(72deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Path_13 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_13 {
+	overflow: visible;
+	position: absolute;
+	width: 521.782px;
+	height: 2317.071px;
+	transform: matrix(1,0,0,1,745.7508,1229.8352) rotate(72deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Path_14 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_14 {
+	overflow: visible;
+	position: absolute;
+	width: 504.724px;
+	height: 2577.275px;
+	transform: matrix(1,0,0,1,934.7845,2589.7991) rotate(-78deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Path_15 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_15 {
+	overflow: visible;
+	position: absolute;
+	width: 504.691px;
+	height: 2636.929px;
+	transform: matrix(1,0,0,1,944.2528,2597.1423) rotate(-78deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Path_16 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_16 {
+	overflow: visible;
+	position: absolute;
+	width: 504.724px;
+	height: 2577.275px;
+	transform: matrix(1,0,0,1,955.6899,2556.3433) rotate(-78deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Path_17 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_17 {
+	overflow: visible;
+	position: absolute;
+	width: 1403.005px;
+	height: 1356.953px;
+	transform: matrix(1,0,0,1,806.3383,4679.4546) rotate(-6deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Path_18 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_18 {
+	overflow: visible;
+	position: absolute;
+	width: 1403.005px;
+	height: 1356.953px;
+	transform: matrix(1,0,0,1,866.6299,4673.1177) rotate(-6deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Path_19 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_19 {
+	overflow: visible;
+	position: absolute;
+	width: 1401.498px;
+	height: 1356.953px;
+	transform: matrix(1,0,0,1,930.6579,4666.467) rotate(-6deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Responsive_Site_for_Hotel_Book {
+	left: 130px;
+	top: 1598px;
+	position: absolute;
+	overflow: visible;
+	width: 945px;
+	height: 123px;
+	text-align: center;
+	font-family: Sans Serif Collection;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(67,59,59,1);
+}
+#Line_9 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_9 {
+	overflow: visible;
+	position: absolute;
+	width: 696px;
+	height: 1px;
+	left: 254px;
+	top: 1721px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#A_site_to_book_a_hotel_stay_at {
+	left: 195px;
+	top: 1765px;
+	position: absolute;
+	overflow: visible;
+	width: 816px;
+	height: 349px;
+	text-align: center;
+	font-family: Sans Serif Collection;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#DIY_Craft_Finder_Responsive_Si {
+	left: 63px;
+	top: 2872px;
+	position: absolute;
+	overflow: visible;
+	width: 945px;
+	height: 123px;
+	text-align: center;
+	font-family: Sans Serif Collection;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(67,59,59,1);
+}
+#Line_11 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_11 {
+	overflow: visible;
+	position: absolute;
+	width: 696px;
+	height: 1px;
+	left: 187px;
+	top: 2995px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#A_site_for_finding_the_perfect {
+	left: 154px;
+	top: 3038px;
+	position: absolute;
+	overflow: visible;
+	width: 763px;
+	height: 252px;
+	text-align: center;
+	font-family: Sans Serif Collection;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#Movie_Theater_Ticketing_App {
+	left: 169px;
+	top: 4270px;
+	position: absolute;
+	overflow: visible;
+	width: 945px;
+	height: 123px;
+	text-align: center;
+	font-family: Sans Serif Collection;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(67,59,59,1);
+}
+#Line_10 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_10 {
+	overflow: visible;
+	position: absolute;
+	width: 696px;
+	height: 1px;
+	left: 293px;
+	top: 4393px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#A_mobile_app_for_users_to_preo {
+	left: 221px;
+	top: 4418px;
+	position: absolute;
+	overflow: visible;
+	width: 763px;
+	height: 252px;
+	text-align: center;
+	font-family: Sans Serif Collection;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#Path_21 {
+	fill: rgba(172,182,185,1);
+}
+.Path_21 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 599px;
+	height: 912.343px;
+	left: 1139px;
+	top: 1353.657px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Image_2 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 538px;
+	height: 851px;
+	left: 1161px;
+	top: 1376px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Hotel_Site.html;
+	cursor: pointer;
+}
+#Path_22 {
+	fill: rgba(172,182,185,1);
+}
+.Path_22 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 896.621px;
+	height: 856.095px;
+	left: 1010px;
+	top: 2780.953px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Image_3 {
+	position: absolute;
+	width: 829px;
+	height: 788px;
+	left: 1032px;
+	top: 2806px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: DIY_Site.html;
+	cursor: pointer;
+}
+#Path_23 {
+	fill: rgba(172,182,185,1);
+}
+.Path_23 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 456.092px;
+	height: 943.803px;
+	left: 1208.052px;
+	top: 4036.599px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Mask_Group_2 {
+	position: absolute;
+	width: 394px;
+	height: 883px;
+	left: 1233px;
+	top: 4058px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Beier_Portfolio_2023.html;
+	cursor: pointer;
+}
+#Component_1__1 {
+	position: fixed;
+	width: 100%;
+	height: 46px;
+	top: 0px;
+	overflow: visible;
+}
+
+#Rectangle_9 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_9 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1939px;
+	height: 63px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_12 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 45px;
+	left: 1178px;
+	top: 0.5px;
+}
+#Rectangle_10 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 45px;
+	left: 1720px;
+	top: 0.5px;
+}
+#Contact_bn {
+	left: 1725px;
+	top: 7.5px;
+	position: absolute;
+	overflow: visible;
+	width: 191px;
+	height: 32px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Contact.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Sans Serif Collection;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(67,59,59,1);
+}
+#Rectangle_11 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 45px;
+	left: 1520px;
+	top: 0.5px;
+}
+#About_bp {
+	left: 1525px;
+	top: 7.5px;
+	position: absolute;
+	overflow: visible;
+	width: 191px;
+	height: 32px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: About.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Sans Serif Collection;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(67,59,59,1);
+}
+#Home_bq {
+	left: 1183px;
+	top: 7.5px;
+	position: absolute;
+	overflow: visible;
+	width: 333px;
+	height: 32px;
+	text-align: center;
+	font-family: Sans Serif Collection;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(67,59,59,1);
+}
+#Line_6 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 46px;
+	left: 1520.5px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_7 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_7 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 46px;
+	left: 1720.5px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_8 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 46px;
+	left: 1178.5px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
